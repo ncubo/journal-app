@@ -69,6 +69,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Heroku Deploy
 
-$ git add .
-$ git commit -am "make it better"
-$ git push heroku master
+`$ git add .`
+`$ git commit -am "make it better"`
+`$ git push heroku master`
+
+### Heroku Demo
+
+https://react-journal-app-test.herokuapp.com
